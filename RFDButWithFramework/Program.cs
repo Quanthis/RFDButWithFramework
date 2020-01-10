@@ -31,7 +31,7 @@ namespace ReadingFromDatabase
             catch (Exception sex)
             {
                 WriteLine("Exception code:" + sex);
-            }
+            }            
         }
 
         /*private static void CreateCommand(string querryString, string connectionString)
